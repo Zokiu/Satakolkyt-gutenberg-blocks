@@ -1,2 +1,3 @@
-# Satakolkyt gutenberg blocks
- 
+ # Satakolkyt gutenberg blocks
+
+Set of gutenberg blocks for [Satakolkyt project](https://satakolkyt.fi "Satakolkyt project") using child theme from [Neve theme](https://themeisle.com/themes/neve/ "Neve theme") and [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/ "Advanced Custom Fields") plugin from [Elliot Condon](https://www.advancedcustomfields.com "Elliot Condon").
